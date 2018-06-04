@@ -1,0 +1,17 @@
+{
+  "header_template":{
+    "MESSAGE":"The header",
+    "HELLO": "Hello",
+    "LOGOUT_BUTTON": "Logout"
+  },
+  "footer_template":{
+    "MESSAGE":"The Footer"
+  },
+  "home":{
+    "TITLE":"Home Page"
+  },
+  "login":{
+    "TITLE":"Login Page",
+    "HELLO": "Hi"
+  }
+}
